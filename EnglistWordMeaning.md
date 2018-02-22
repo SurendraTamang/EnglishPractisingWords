@@ -1,7 +1,7 @@
 # The word meaning of English that i read on the news articles 
 --------------
-############Thu 22 Feb 2018 04:57:44 PM +0545
-[Article](https://www.theguardian.com/commentisfree/2018/feb/21/slaughter-syria-trump-brexit-atrocity)
+############ Thu 22 Feb 2018 04:57:44 PM +0545
+This is the link of news artcle [Click here](https://www.theguardian.com/commentisfree/2018/feb/21/slaughter-syria-trump-brexit-atrocity)
 --------
 1. Slaughter:the killing of many people cruelly and unfairly, especially in a war
 2. Outrage:(especially of unfair action or statement) to cause someone to feel very angry,upset or shocked
